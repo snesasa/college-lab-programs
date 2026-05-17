@@ -80,21 +80,6 @@ college-lab-programs/
 
 ---
 
-# How to Run
-
-## Compile
-
-```bash
-gcc filename.c -o output
-```
-
-## Run
-
-```bash
-./output
-```
-
----
 
 # Topics Covered
 
@@ -118,14 +103,6 @@ gcc filename.c -o output
 
 ---
 
-# Future Improvements
-
-- Add comments to programs
-- Add sample input/output
-- Add more algorithms
-- Improve documentation
-
----
 
 # Author
 
